@@ -1,6 +1,6 @@
 # Hello! 👋
 I'm Batuhan, an inquisitive Front-End Developer, currently on my journey to becoming a Full-Stack Developer! 🚀
-I started uploading all my past projects to GitHub in 2025.
+# I started uploading all my past projects to GitHub in 2025.
 
 ## 🛠️ Technologies I Use:
 - HTML, CSS, JavaScript
